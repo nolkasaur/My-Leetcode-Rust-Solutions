@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/final-value-of-variable-after-performing-operations/
+// 0 ms, 2.1 MB
 
 impl Solution {
     pub fn final_value_after_operations(operations: Vec<String>) -> i32 {
