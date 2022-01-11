@@ -1,3 +1,5 @@
+// https://leetcode.com/problems/running-sum-of-1d-array/
+
 impl Solution {
     pub fn running_sum(nums: Vec<i32>) -> Vec<i32> {
         let mut count = 0;
