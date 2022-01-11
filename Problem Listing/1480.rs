@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/running-sum-of-1d-array/
+// 3 ms, 2.3 MB
 
 impl Solution {
     pub fn running_sum(nums: Vec<i32>) -> Vec<i32> {
