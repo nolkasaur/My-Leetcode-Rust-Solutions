@@ -5,7 +5,7 @@ impl Solution {
         let it = operations.iter();
         let mut count = 0;
         for val in it {
-            if val.starts_with("+") | val.ends_with("+") {
+            if val.starts_with("+") || val.ends_with("+") {
                 count+=1;
             } else {
                 count-=1;
