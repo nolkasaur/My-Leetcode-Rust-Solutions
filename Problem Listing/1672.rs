@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/richest-customer-wealth/
+// 3 ms, 2.3 MB
 
 impl Solution {
     pub fn maximum_wealth(accounts: Vec<Vec<i32>>) -> i32 {
