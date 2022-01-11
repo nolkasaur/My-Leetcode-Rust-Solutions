@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
+// 0 ms, 1.9 MB
 
 impl Solution {
     pub fn subtract_product_and_sum(n: i32) -> i32 {
