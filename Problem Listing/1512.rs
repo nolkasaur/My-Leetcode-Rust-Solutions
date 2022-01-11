@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/number-of-good-pairs/
+// 0 ms, 2 MB
 
 impl Solution {
     pub fn num_identical_pairs(nums: Vec<i32>) -> i32 {
