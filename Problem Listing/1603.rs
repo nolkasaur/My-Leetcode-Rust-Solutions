@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/design-parking-system/
+// 38 ms, 2.7 MB
 
 struct ParkingSystem {
     big: i32,
