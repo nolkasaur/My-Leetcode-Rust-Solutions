@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/concatenation-of-array/
+// 4 ms, 2.2 MB
 
 impl Solution {
     pub fn get_concatenation(nums: Vec<i32>) -> Vec<i32> {
