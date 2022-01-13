@@ -5,8 +5,8 @@ impl Solution {
     pub fn balanced_string_split(s: String) -> i32 {
         let mut res = 0;
         let mut lBal = 0;
-        for x in 0..s.len() {
-            if s.chars().nth(x).unwrap() == 'L' {
+        for x in s.chars() {
+            if x == 'L' {
                 lBal+=1;
             } else {
                 lBal-=1;
